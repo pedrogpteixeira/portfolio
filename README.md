@@ -23,4 +23,4 @@ The goal of this website is to showcase my personal projects, technical skills, 
 
 You can view the live portfolio here:
 
-🔗 https://portfolio.com/
+🔗 https://pedrogpteixeira.netlify.app/
